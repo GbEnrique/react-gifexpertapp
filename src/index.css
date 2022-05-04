@@ -21,19 +21,19 @@ input{
   border: 1px solid grey;
   border-bottom: 6px;
   border-radius: 6px;
-  border-right: 10px;
-  margin-bottom: 10px;
-  margin-right: 10px;
+  border-right: 12px;
+  margin-bottom: 12px;
+  margin-right: 12px;
   overflow: hidden;
 }
 
 .card p{
-  padding: 5px;
+  padding: 6px;
   text-align: center;
 }
 
 .card img{
-  max-height: 170px;
+  max-height: 160px;
 }
 
 .blue-input:focus {
